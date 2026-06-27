@@ -1,0 +1,23 @@
+{
+	"Token is invalid": "Token is invalid",
+	"Register user successfully": "Register user successfully",
+	"Cannot register new user: SequelizeUniqueConstraintError: Validation error": "Cannot register new user: SequelizeUniqueConstraintError: Validation error",
+	"Cannot register new user: email must be unique": "Cannot register new user: email must be unique",
+	"Cannot register new user: {\"email\":[\"The email format is invalid.\"]}": "Cannot register new user: {\"email\":[\"The email format is invalid.\"]}",
+	"Cannot register new user: ": "Cannot register new user: ",
+	"Cannot register new user: The email format is invalid.": "Cannot register new user: The email format is invalid.",
+	"Cannot register new user: The email format is invalid.,The password must be at least 2 characters.": "Cannot register new user: The email format is invalid.,The password must be at least 2 characters.",
+	"Login user successfully": "Login user successfully",
+	"Cannot register new user: The email field is required.": "Cannot register new user: The email field is required.",
+	"Wrong email and password": "Wrong email and password",
+	"logout user successfully": "logout user successfully",
+	"Cannot find user": "Cannot find user",
+	"Token is ok": "Token is ok",
+	"Token is failed": "Token is failed",
+	"Cannot query: ": "Cannot query: ",
+	"Query successful": "Query successful",
+	"Query successful, length = 10": "Query successful, length = 10",
+	"Query successful, length = 1": "Query successful, length = 1",
+	"Query successful, length = 0": "Query successful, length = 0",
+	"Cannot login user: ": "Cannot login user: "
+}
